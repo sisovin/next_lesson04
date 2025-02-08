@@ -186,5 +186,3 @@ This project is open source and available under the MIT license.
 - [Next.js Documentation](https://nextjs.org/docs)
 - [Learn Next.js](https://nextjs.org/learn)
 - [Vercel Platform](https://vercel.com/new)
-
-```
